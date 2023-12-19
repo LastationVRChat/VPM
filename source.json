@@ -13,7 +13,6 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    ],
     "packages": [
         {
             "name": "net.bluwizard.poipresets",
