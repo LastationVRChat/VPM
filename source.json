@@ -1,27 +1,45 @@
 {
-    "name":"Example Listing",
+    "name":"Lastation Packages",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"vpm.lastation.tech/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"admin@lastation.tech",
+        "name":"〈Drake〉",
+        "url":"https://vrchat.com/home/user/usr_415fe19c-5030-429a-a6af-2121e304010e"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"List of the VPM Repositories ",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/LastationVRChat/VPM",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
         "vrchat-community/clientsim"
     ],
-    "packages":[
+    "packages": [
         {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+            "name": "net.bluwizard.poipresets",
+            "releases": [
+                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.5/net.bluwizard.poipresets-1.3.5.zip",
+                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.4/net.bluwizard.poipresets-1.3.4.zip",
+                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.3/net.bluwizard.poipresets-1.3.3.zip",
+                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.2/net.bluwizard.poipresets-1.3.2.zip",
+                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.1/net.bluwizard.poipresets-1.3.1.zip",
+                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.0/net.bluwizard.poipresets-1.3.0.zip",
+                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.2/net.bluwizard.poipresets-1.2.2.zip",
+                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.1/net.bluwizard.poipresets-1.2.1.zip",
+                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.0/net.bluwizard.poipresets-1.2.0.zip",
+                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.1.0/net.bluwizard.poipresets-1.1.0.zip",
+                "https://gitlab.com/BluWizard10/poiyomi-presets/-/releases/v1.0.1/downloads/package",
+                "https://gitlab.com/BluWizard10/poiyomi-presets/-/releases/v1.0.0/downloads/package"
+            ]
+        },
+        {
+            "name": "net.bluwizard.ui",
+            "releases": [
+                "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.2-alpha/net.bluwizard.ui-0.1.2-alpha.zip",
+                "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.1-alpha/net.bluwizard.ui-0.1.1-alpha.zip",
+                "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.0-alpha/net.bluwizard.ui-0.1.0-alpha.zip"
             ]
         }
     ]
