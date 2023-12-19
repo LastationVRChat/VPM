@@ -15,28 +15,9 @@
     "bannerUrl":"banner.png",
     "packages": [
         {
-            "name": "net.bluwizard.poipresets",
+            "name": "tech.lastation.playertracker",
             "releases": [
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.5/net.bluwizard.poipresets-1.3.5.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.4/net.bluwizard.poipresets-1.3.4.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.3/net.bluwizard.poipresets-1.3.3.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.2/net.bluwizard.poipresets-1.3.2.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.1/net.bluwizard.poipresets-1.3.1.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.0/net.bluwizard.poipresets-1.3.0.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.2/net.bluwizard.poipresets-1.2.2.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.1/net.bluwizard.poipresets-1.2.1.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.0/net.bluwizard.poipresets-1.2.0.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.1.0/net.bluwizard.poipresets-1.1.0.zip",
-                "https://gitlab.com/BluWizard10/poiyomi-presets/-/releases/v1.0.1/downloads/package",
-                "https://gitlab.com/BluWizard10/poiyomi-presets/-/releases/v1.0.0/downloads/package"
-            ]
-        },
-        {
-            "name": "net.bluwizard.ui",
-            "releases": [
-                "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.2-alpha/net.bluwizard.ui-0.1.2-alpha.zip",
-                "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.1-alpha/net.bluwizard.ui-0.1.1-alpha.zip",
-                "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.0-alpha/net.bluwizard.ui-0.1.0-alpha.zip"
+                "https://github.com/LastationVRChat/Lastation-Player-Tracker/releases/download/1.3.0/tech.lastation.playertracker-1.3.0.zip"
             ]
         }
     ]
