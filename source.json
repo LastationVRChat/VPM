@@ -1,6 +1,6 @@
 {
     "name":"Lastation Packages",
-    "id":"com.vrchat.example-listing",
+    "id":"tech.lastation.listing",
     "url":"https://LastationVRChat.github.io/VPM/index.json",
     "author":{
         "email":"admin@lastation.tech",
